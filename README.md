@@ -5,7 +5,7 @@ A simple module for converting numbers to words in the South Asian numbering sys
 ## Install
 
 ```js
-npm install num-words
+npm install asian-num-words
 ```
 
 # Example
