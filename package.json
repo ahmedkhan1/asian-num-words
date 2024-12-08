@@ -1,0 +1,24 @@
+{
+  "name": "asian-num-words",
+  "version": "1.0.0",
+  "description": "A simple libray that converts digits into South Asian numbering system. Eg. Lakh, Crore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedkhan1/asian-num-words.git"
+  },
+  "keywords": [
+    "convert",
+    "digit",
+    "word",
+    "number",
+    "amount",
+    "south-asian",
+    "asian"
+  ],
+  "author": "Ahmed khan",
+  "license": "ISC"
+}
